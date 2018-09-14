@@ -1,0 +1,26 @@
+h2{
+	font-size: 40px;
+	text-align: center;
+	color: white;
+	
+}
+h3{
+	font-size: 30px;
+	color: white;
+	background-color: #c961c4;
+}	
+p{
+	font-size: 15px;
+}
+.card-header{
+	background-color: #b13dac;
+}
+.plusloin{
+	background-color: #fef1fd;
+}
+.postmat{
+	background-color: #fef1fd;
+}
+.card-text{
+	background-color: #fef1fd;
+}
