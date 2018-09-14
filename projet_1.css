@@ -1,0 +1,44 @@
+.img_dimension {
+	width: 30px;
+	height: 30px;
+}
+
+
+.nav{
+	background-color: white;
+	padding-left: 20px;
+	padding-bottom: 20px;
+	padding-right: 80px;
+	height: 50px;
+	width: 98%;
+
+}
+.nav-item a {
+	color: #860C80;
+	 }
+.form-group { 
+	 	width : 300px;
+		 padding-left: 20px;
+		 
+	 }
+
+.btn { 
+	padding-left: 20px;
+	margin-left: 20px;
+	margin-bottom: 20px;
+	
+}
+.nav-item {
+	color: white;
+
+}
+a:hover{
+	background: #E194DE;
+}
+.card-header {
+	background: #860C80 ;
+	text-align: center;
+	color: white;
+
+}
+ 
