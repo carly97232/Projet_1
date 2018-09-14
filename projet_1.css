@@ -1,20 +1,72 @@
+body {
+	background-color: white;
+	font-family: 'Yrsa', serif;
+}
+
+.logoSante {
+	height: 140px;
+	width: 140px;
+}
+.active .navBar{
+	background-color: #a0229a;
+	color: #e194DE;
+}
+.navBar {
+	color: #860c80;
+}
+.navBar:hover {
+	background-color: #860c80;
+	color: #e194DE;
+}
+.navbar-collapse {
+  	text-align:center;
+}
+
+.menuBurger{
+	height: 30px;
+	width: 30px;
+}
+h1{
+	text-align: center;
+	color: #b13dac;
+}
+
+.card-header {
+	background-color: #b13dac;
+}
 h2{
 	font-size: 40px;
 	text-align: center;
 	color: white;
-	
 }
+.card-body {
+	background-color: #fff9fa;
+}
+p{
+	text-align: justify;
+	font-size: 15px;
+}
+a{
+	color: #267068;
+}
+a:hover{
+	color: #638418;
+}
+.imageExo{
+	height: 140px;
+	width: 140px;
+	border-radius: 100px 100px 100px 100px;
+}
+.boutonExo{
+	background-color: #e196e1;
+	color: #860c80;
+}
+
 h3{
 	font-size: 30px;
 	color: white;
 	background-color: #c961c4;
 }	
-p{
-	font-size: 15px;
-}
-.card-header{
-	background-color: #b13dac;
-}
 .plusloin{
 	background-color: #fef1fd;
 }
@@ -24,3 +76,43 @@ p{
 .card-text{
 	background-color: #fef1fd;
 }
+
+
+.img_dimension {
+	width: 30px;
+	height: 30px;
+}
+
+
+.nav{
+	background-color: white;
+	padding-left: 20px;
+	padding-bottom: 20px;
+	padding-right: 80px;
+	height: 50px;
+	width: 98%;
+
+}
+.nav-item a {
+	color: #860C80;
+	 }
+.form-group { 
+	 	width : 300px;
+		 padding-left: 20px;
+		 
+	 }
+
+.btn { 
+	padding-left: 20px;
+	margin-left: 20px;
+	margin-bottom: 20px;
+	
+}
+.nav-item {
+	color: white;
+
+}
+a:hover{
+	background: #E194DE;
+}
+
