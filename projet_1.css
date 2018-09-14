@@ -1,49 +1,3 @@
-
-.img_dimension {
-	width: 30px;
-	height: 30px;
-}
-
-
-.nav{
-	background-color: white;
-	padding-left: 20px;
-	padding-bottom: 20px;
-	padding-right: 80px;
-	height: 50px;
-	width: 98%;
-
-}
-.nav-item a {
-	color: #860C80;
-	 }
-.form-group { 
-	 	width : 300px;
-		 padding-left: 20px;
-		 
-	 }
-
-.btn { 
-	padding-left: 20px;
-	margin-left: 20px;
-	margin-bottom: 20px;
-	
-}
-.nav-item {
-	color: white;
-
-}
-a:hover{
-	background: #E194DE;
-}
-.card-header {
-	background: #860C80 ;
-	text-align: center;
-	color: white;
-
-}
- 
-
 body {
 	background-color: white;
 	font-family: 'Yrsa', serif;
@@ -81,8 +35,9 @@ h1{
 	background-color: #b13dac;
 }
 h2{
-	color: white;
+	font-size: 40px;
 	text-align: center;
+	color: white;
 }
 .card-body {
 	background-color: #fff9fa;
@@ -105,5 +60,59 @@ a:hover{
 .boutonExo{
 	background-color: #e196e1;
 	color: #860c80;
+}
+
+h3{
+	font-size: 30px;
+	color: white;
+	background-color: #c961c4;
+}	
+.plusloin{
+	background-color: #fef1fd;
+}
+.postmat{
+	background-color: #fef1fd;
+}
+.card-text{
+	background-color: #fef1fd;
+}
+
+
+.img_dimension {
+	width: 30px;
+	height: 30px;
+}
+
+
+.nav{
+	background-color: white;
+	padding-left: 20px;
+	padding-bottom: 20px;
+	padding-right: 80px;
+	height: 50px;
+	width: 98%;
+
+}
+.nav-item a {
+	color: #860C80;
+	 }
+.form-group { 
+	 	width : 300px;
+		 padding-left: 20px;
+		 
+	 }
+
+.btn { 
+	padding-left: 20px;
+	margin-left: 20px;
+	margin-bottom: 20px;
+	
+}
+.nav-item {
+	color: white;
+
+}
+a:hover{
+	background: #E194DE;
 }
 
