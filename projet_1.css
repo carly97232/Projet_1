@@ -1,0 +1,158 @@
+body {
+	background: none;
+	opacity: 50%;
+	font-family: 'Alice', serif;
+}
+header{
+	background-image: url("http://image.noelshack.com/fichiers/2018/38/2/1537285822-well-being-700.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-attachment:fixed;
+	background-position: center top;
+	height: 596px;
+}
+.logoSante {
+	background: none;
+	position: relative;
+	height: 90px;
+	width: 90px;
+	margin-right: 5%;
+}
+
+.active .navBar{
+	background-color: #006994;
+	color: #FFFFFF;
+}
+.navBar {
+	margin-left: 20px;
+	margin-right: 20px;
+	color: #069cae;
+}
+.navBar:hover {
+	background-color: #0c8190;
+	color: #FFFFFF;
+	box-shadow: 2px 2px 2px gray, -1px -1px 2px white;
+}
+.navbar-collapse {
+  	text-align:center;
+}
+
+.menuBurger{
+	height: 30px;
+	width: 30px;
+}
+h1{
+	text-shadow: 2px 2px 2px gray, -1px -1px 2px white;
+	text-align: center;
+	color: #b13dac;
+	font-size: 80px;
+	margin-top: 8%;
+}
+
+.materiel {
+	margin-top: 1%;
+	margin-bottom: 1%;
+}
+
+h2{
+	font-size: 40px;
+	text-align: center;
+	color: #2cd7d7;
+}
+
+.img_Pourquoi { 
+	float: left;
+	width: 20%;
+	height: 20%;
+}
+
+p{
+	font-size: 16pt;
+}
+a{
+	color: #267068;
+}
+a:hover{
+	color: #2cd7d7;
+}
+.imageExo{
+	height: 140px;
+	width: 140px;
+	border-radius: 5px 5px 5px 5px;
+	box-shadow: 2px 2px 2px gray, -1px -1px 2px white;
+	margin: 10%;
+}
+.boutonExo{
+	box-shadow: 4px 4px 4px gray, -1px -1px 2px white;
+	background-color: #ffffff;
+	color: #006994;
+}
+
+h3{
+	font-size: 30px;
+	color: black;
+	text-align: center;
+	border-radius: 5px 5px 5px 5px; 
+}	
+
+.img_dimension {
+	width: 30px;
+	height: 30px;
+}
+
+
+.nav{
+	background-color: white;
+	padding-left: 20px;
+	padding-bottom: 20px;
+	padding-right: 80px;
+	height: 50px;
+	width: 97%;
+
+}
+.nav-item a {
+	color: #006994;
+	 }
+.form-group { 
+	width : 300px;
+	padding-left: 20px;
+		 
+}
+.nav-item {
+	color: white;
+
+}
+a:hover{
+	background: white;
+}
+.fruits{
+	height: 40%;
+	width: 40%;
+	float: right;
+}
+.postures{
+	width: 90%;
+	height: 90%;
+	position: relative;
+	margin-bottom: 6%;
+}
+.repospeids{
+	width: 36%;
+}
+.fauteuil{
+	width: 54%;
+
+}
+.repose_poignets{
+	width: 30%;
+}
+.details{
+	font-size: 16px;
+}
+.card>img{
+	align-self: center;
+}
+.post{
+margin-top: 1%;
+margin-left: 1%;
+}
