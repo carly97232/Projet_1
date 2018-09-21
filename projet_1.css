@@ -101,7 +101,10 @@ h1{
 	border: none;
 >>>>>>> f5cb6e1d500372b35bce808f77a7847940f57c6d
 }
-
+.materiel {
+	margin-top: 1%;
+	margin-bottom: 1%;
+}
 h2{
 	font-size: 40px;
 	text-align: center;
@@ -229,4 +232,35 @@ hr {
 	font-size: 60px;
 	line-height: 1;
 	margin-bottom: 2%; 
+}
+.fruits{
+	height: 40%;
+	width: 40%;
+	float: right;
+}
+.postures{
+	width: 90%;
+	height: 90%;
+	position: relative;
+	margin-bottom: 6%;
+}
+.repospeids{
+	width: 36%;
+}
+.fauteuil{
+	width: 54%;
+
+}
+.repose_poignets{
+	width: 30%;
+}
+.details{
+	font-size: 16px;
+}
+.card>img{
+	align-self: center;
+}
+.post{
+margin-top: 1%;
+margin-left: 1%;
 }
