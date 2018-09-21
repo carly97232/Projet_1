@@ -13,15 +13,28 @@ body {
 	background-position: center 83px;
 	text-align: center;
 	font-size: 27px;
+<<<<<<< HEAD
 	background-image: url("http://image.noelshack.com/fichiers/2018/38/2/1537285822-well-being-700.jpg");
+=======
+	background-image: url("https://entreprise.normandie-bienetre.com/wp-content/uploads/2015/04/shutterstock_2050508171.jpg");
+	background-size: cover;
+>>>>>>> f5cb6e1d500372b35bce808f77a7847940f57c6d
 }
 .logoSante {
 	background: none;
 	position: relative;
+<<<<<<< HEAD
 	height: 90px;
 	width: 90px;
 	margin-right: 5%;
 	z-index: 1000;
+=======
+	height: 100px;
+	width: 100px;
+	margin-right: 8%;
+	z-index: 1000;
+	filter: drop-shadow(3px 1px 4px grey);
+>>>>>>> f5cb6e1d500372b35bce808f77a7847940f57c6d
 }
 
 .navbar-fixed-top{
@@ -46,7 +59,11 @@ body {
 	color: black;
 }
 .navBar:hover {
+<<<<<<< HEAD
 	border-bottom: 2px solid black;
+=======
+	border-bottom: 2px solid #2cd7d7;
+>>>>>>> f5cb6e1d500372b35bce808f77a7847940f57c6d
 	font-family: font75852;
 	font-size: 20px;
 	color: black;
@@ -63,6 +80,7 @@ h1{
 	text-shadow: 2px 2px 2px gray, -1px -1px 2px white;
 	text-align: center;
 	font-size: 80px;
+<<<<<<< HEAD
 	margin-top: 2%;
 	margin-bottom: 2%;
 	font-family: font75852;
@@ -72,6 +90,16 @@ h1{
 	box-shadow: 2px 2px 2px gray, -1px -1px 2px white;
 	margin-top: 1%;
 	margin-bottom: 1%;
+=======
+	font-family: font75852;
+	margin-top: 3%;
+}
+
+.card{
+	margin-top: 1%;
+	margin-bottom: 1%;
+	border: none;
+>>>>>>> f5cb6e1d500372b35bce808f77a7847940f57c6d
 }
 
 h2{
@@ -84,6 +112,11 @@ h2{
 	float: left;
 	width: 20%;
 	height: 20%;
+<<<<<<< HEAD
+=======
+	filter: drop-shadow(3px 1px 4px grey);
+	margin: 1%;
+>>>>>>> f5cb6e1d500372b35bce808f77a7847940f57c6d
 }
 
 p{
@@ -103,12 +136,25 @@ p{
 	width: 140px;
 	border-radius: 5px 5px 5px 5px;
 	box-shadow: 2px 2px 2px gray, -1px -1px 2px white;
+<<<<<<< HEAD
 	margin: 10%;
 }
 .boutonExo{
 	box-shadow: 4px 4px 4px gray, -1px -1px 2px white;
 	background-color: #ffffff;
 	color: #006994;
+=======
+	margin: 15%;
+	opacity: 0.7;
+}
+.imageExo:hover {
+	height: 140px;
+	width: 140px;
+	border-radius: 5px 5px 5px 5px;
+	box-shadow: 2px 2px 2px gray, -1px -1px 2px white;
+	margin: 15%;
+	opacity: 1;
+>>>>>>> f5cb6e1d500372b35bce808f77a7847940f57c6d
 }
 
 h3{
@@ -124,9 +170,10 @@ h3{
 }
 
 
-.nav{
-	background-color: white;
+.form-group { 
+	width : 300px;
 	padding-left: 20px;
+<<<<<<< HEAD
 	padding-bottom: 20px;
 	padding-right: 80px;
 	height: 50px;
@@ -139,6 +186,9 @@ h3{
 		 padding-left: 20px;
 		 
 	 }
+=======
+}
+>>>>>>> f5cb6e1d500372b35bce808f77a7847940f57c6d
 
 .btn { 
 	padding-left: 20px;
@@ -146,16 +196,18 @@ h3{
 	margin-bottom: 20px;
 	
 }
-.nav-item {
-	color: white;
 
+<<<<<<< HEAD
 }
+=======
+>>>>>>> f5cb6e1d500372b35bce808f77a7847940f57c6d
 a{
 	margin-left: 22px;
 	margin-right: 22px;
 	font-family: font75852;
 	font-size: 20px;
 	color: black;
+<<<<<<< HEAD
 }
 .temoignage_card {
 	display: inline-block;
@@ -166,5 +218,15 @@ a{
 .card_image {
 	align-content: flex-end;
 	height: 211px;
+=======
+>>>>>>> f5cb6e1d500372b35bce808f77a7847940f57c6d
 }
 
+hr {
+	border: 0; height: 2px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), #2cd7d7, rgba(0, 0, 0, 0));
+	font-family: font75852;
+	text-align: center;
+	font-size: 60px;
+	line-height: 1;
+	margin-bottom: 2%; 
+}
