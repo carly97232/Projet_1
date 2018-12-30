@@ -229,10 +229,12 @@ hr {
     margin-left: 1%;
 }
 
-.logofooter {
-    margin-left: 14vw;
-}
 object{
     width: 100%;
     height: 300px;
+}
+.footer{
+    background-color: darkgrey;
+    margin: auto;
+
 }
